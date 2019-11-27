@@ -33,5 +33,5 @@ timeout-decorator==0.4.1
 tqdm==4.19.1
 urllib3==1.24.1
 virtualenv==16.0.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 xgboost==0.72.1
