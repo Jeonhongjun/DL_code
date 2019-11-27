@@ -1,0 +1,7 @@
+*.Trash-1000
+*.DS_Store
+*.ipynb_checkpoints
+*.vscode
+/.idea
+/.idea/*.xml
+/__pycache__/*.pyc

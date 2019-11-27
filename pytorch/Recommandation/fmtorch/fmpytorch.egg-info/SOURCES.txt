@@ -1,0 +1,16 @@
+README.md
+setup.py
+fmpytorch/__init__.py
+fmpytorch.egg-info/PKG-INFO
+fmpytorch.egg-info/SOURCES.txt
+fmpytorch.egg-info/dependency_links.txt
+fmpytorch.egg-info/not-zip-safe
+fmpytorch.egg-info/requires.txt
+fmpytorch.egg-info/top_level.txt
+fmpytorch/second_order/second_order_fast_inner.c
+fmpytorch/second_order/__init__.py
+fmpytorch/second_order/fm.py
+fmpytorch/second_order/second_order_fast.py
+fmpytorch/second_order/second_order_naive.py
+fmpytorch/second_order/setup.py
+fmpytorch/second_order/test.py
